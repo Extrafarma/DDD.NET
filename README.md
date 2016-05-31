@@ -1,2 +1,2 @@
 # DDD.NET
-Template enterprise architecture for .NET projects.
+Enterprise architecture template for .NET projects.
